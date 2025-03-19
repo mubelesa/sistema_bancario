@@ -1,1 +1,1 @@
-Este projeto fez parte de um desafio da plataforma DIO, onde era necessário desenvolver um sistema bancário.
+Este projeto fez parte de um desafio da plataforma DIO, onde era necessário desenvolver um sistema bancário envolvendo comandos básicos, operadores, manipulação de strings, variáveis, constantes e estruturas de controle.
